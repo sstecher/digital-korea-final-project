@@ -5,4 +5,4 @@ authors:
 •	family-names: “Stecher”
     	given-names: “Sam”
     	date-released: 2026-06-10
-    	abstract: “BA2 final project for the course Digital Korea at Leiden 		University.”
+    	abstract: “BA2 final project for the course Digital Korea at Leiden University.”
