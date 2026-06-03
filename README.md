@@ -39,7 +39,7 @@ The project uses the “kpoem” corpus, which consists of 615 poems written in 
 
 **Author**
 
-Sam Stecher
-BA2: Digital Korea
-Leiden University
-Spring 2026
+Sam Stecher,
+BA2: Digital Korea,
+Leiden University,
+Spring 2026.
